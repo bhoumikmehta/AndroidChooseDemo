@@ -1,0 +1,24 @@
+apply plugin: 'java'
+
+
+// 设置 Java 版本
+sourceCompatibility = JavaVersion.VERSION_17
+targetCompatibility = JavaVersion.VERSION_17
+
+
+repositories {
+    google()
+    mavenCentral()
+    mavenLocal()
+}
+
+// 设置 Java 版本
+sourceCompatibility = JavaVersion.VERSION_17
+targetCompatibility = JavaVersion.VERSION_17
+
+dependencies {
+    // 自定义算法实现依赖库
+    implementation 'com.github.megatronking.stringfog:interface:4.0.0'
+
+}
+

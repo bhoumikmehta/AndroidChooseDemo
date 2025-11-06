@@ -1,0 +1,4 @@
+[submodule "external/nativeLib"]
+	path = external/nativeLib
+	url = https://github.com/w296488320/nativeLib.git
+    branch = main

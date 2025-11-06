@@ -1,0 +1,7 @@
+// 增加dependencies.gradle作为buildSrc的和其他公共模块的导入依赖。
+ext {
+    commonLibs = [
+            // 自定义算法实现依赖库
+            'stringfog': "com.github.megatronking.stringfog:interface:4.0.0"
+    ]
+}

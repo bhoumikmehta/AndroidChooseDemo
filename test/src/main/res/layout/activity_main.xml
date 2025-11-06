@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <WebView
+        android:id="@+id/webview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </WebView>
+    <Button
+        android:onClick="startServer"
+        android:id="@+id/tv_oaid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="启动进程服务!" />
+    <Button
+        android:onClick="testAli"
+        android:id="@+id/test_ali"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="测试阿里!" />
+
+    <Button
+        android:onClick="AndroidId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="IPC Android_Id!" />
+    <Button
+        android:onClick="IPCSign"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="IPC签名!" />
+
+    <Button
+        android:onClick="attestation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="attestation签名" />
+</LinearLayout>
